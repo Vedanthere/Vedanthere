@@ -14,8 +14,6 @@
         </a>
       </div>
 
-- 🌱 Languages and Tools:
-
 <!--
 **Vedanthere/Vedanthere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,4 +31,5 @@ Here are some ideas to get you started:
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 
+- 🌱 Languages and Tools:
 -->
