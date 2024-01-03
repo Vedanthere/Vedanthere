@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Vedant Vaidya, passionate about full stack developer.
+  
 - 💬 Active participant in the tech community and enjoy keeping up with the latest industry trends and emrging technologies.
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Graphics Visualization. 
-- 📫 Contact me:  
+  
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Graphics Visualization.
+  
+- 📫 Contact me:
       <div id="badges">
         <a href="https://www.linkedin.com/in/vedant-vaidya-b01308242/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,6 +13,7 @@
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
       </div>
+
 - 🌱 Languages and Tools:
 
 <!--
