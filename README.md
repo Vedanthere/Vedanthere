@@ -1,4 +1,3 @@
-Hi there 👋
 - 👋 Hi, I’m Vedant Vaidya, passionate about full stack developer.
 - 📫 Contact me:  
       <div id="badges">
