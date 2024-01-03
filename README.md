@@ -1,5 +1,5 @@
 Hi there 👋
-- 👋 Hi, I’m Vedant Vaidya, passionate full stack developer.
+- 👋 Hi, I’m Vedant Vaidya, passionate about full stack developer.
 - 📫 Contact me:  
       <div id="badges">
         <a href="https://www.linkedin.com/in/vedant-vaidya-b01308242/">
