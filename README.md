@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there 👋
+- 👋 Hi, I’m Vedant Vaidya, passionate full stack developer.
+- 📫 Contact me:  
+    [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
 
 <!--
 **Vedanthere/Vedanthere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+
 -->
