@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Vedant Vaidya, passionate about full stack developer.
+- 👋 Hi, I’m Vedant Vaidya, passionate about full stack developer dedicated to creating innovative solutions that make a meaningful impact.
+
+- 🔭 I’m currently working on an AI-powered web app and Chrome extension designed to enhance productivity and streamline workflows. 
   
 - 💬 Active participant in the tech community and enjoy keeping up with the latest industry trends and emrging technologies.
-  
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Graphics Visualization.
+
   
 - 📫 Contact me:
       <div id="badges">
@@ -20,6 +21,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Graphics Visualization.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
