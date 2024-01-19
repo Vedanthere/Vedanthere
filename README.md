@@ -4,8 +4,7 @@
   
 - 💬 Active participant in the tech community and enjoy keeping up with the latest industry trends and emrging technologies.
 
-  
-## 📫 Contact me:
+- 📫 Contact me:
       <div>
         <a href="https://www.linkedin.com/in/vedant-vaidya-b01308242/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
