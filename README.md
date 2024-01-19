@@ -13,9 +13,7 @@
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
       </div>
-      
-  </br>
-  
+        
 ## Languages and Tools:
 <div>
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
@@ -36,9 +34,10 @@
 </br>
 <!--
 **Vedanthere/Vedanthere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+,--
 Here are some ideas to get you started:
-
+  </br>
+<--
 - 🔭 I’m currently working on ...
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, and Graphics Visualization.
 - 🌱 I’m currently learning ...
@@ -51,6 +50,5 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on ...
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-
 - 🌱 Languages and Tools:
 -->
