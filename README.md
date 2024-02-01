@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an AI-powered web app and Chrome extension designed to enhance productivity and streamline workflows. 
   
-- 💬 Active participant in the tech community and enjoy keeping up with the latest industry trends and emrging technologies.
+- 💬 Active participant in the tech community and enjoy keeping up with the latest industry trends and emerging technologies.
 
 - 📫 Contact me:
       <div>
